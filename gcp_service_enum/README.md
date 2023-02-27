@@ -1,1 +1,1 @@
-# tool ro enumerate GCP services
+# Tool to enumerate GCP services
